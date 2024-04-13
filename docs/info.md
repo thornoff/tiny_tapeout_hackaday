@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The default project just displays three segments lighting up.
 
 ## How to test
 
-Explain how to use your project
+You can use the project as a template to build more complicated 7 segment project.
 
 ## External hardware
 
